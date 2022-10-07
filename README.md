@@ -1,2 +1,2 @@
-# dapp-kit
-The DApp-Kit is an open-source collection of independent modules, libraries, classes, and code snippets for implementing decentralized applications.
+# dapp-studio
+The `DApp Studio` is a collection of standalone libraries, utility classes, UI components, and code snippets for implementing decentralized applications.
